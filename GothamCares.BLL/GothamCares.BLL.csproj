@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GothamCares.DAL\GothamCares.DAL.csproj" />
+    <ProjectReference Include="..\GothamCares.Entities\GothamCares.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
